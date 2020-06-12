@@ -87,10 +87,13 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 
 ## Projetos
 
-- [Site Pessoal](https://davidallysson.github.io/)
-- [Engecall](https://davidallysson.github.io/Engecall)
+- [API - Vacation-Schedule](https://github.com/llucasmota/vacation-schedule)
+- [API - Projeto com fundamentos da Arquitetura SOLID](https://github.com/llucasmota/gostack-template-fundamentos-node)
+- [API - Market Place](https://github.com/llucasmota/marketplace)
+- [Consumo da API github com ReactJS](https://github.com/llucasmota/github-repositories-react)
+- [Consumo de API github com React Native](https://github.com/llucasmota/gostack-template-conceitos-react-native)
 
-## Cursos Completos
+## Cursos
 
 - Curso Git e Github para iniciantes (Udemy / [Certificado](#))
 - Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
