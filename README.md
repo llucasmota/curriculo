@@ -16,8 +16,8 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 
 - (2017 - Atual) <br>
   **Analista de Teste de Software - Sicoob Confederação**
-- Homologação de produtos do Sicoob(Sicoob Mobile, Internet Banking, Chatbot, Big Data);
-- Homologação de serviços Rest com Wso2 utilizando ferramentas(Postman) e codificação(Javascript Supertest, Mocha);
+- Homologação de produtos do Sicoob(Sicoob Mobile, Internet Banking, Chatbot, Cases de Big Data);
+- Homologação de serviços Rest com Wso2 utilizando ferramentas(Postman) e codificação(com e frameworks Javascript Supertest, Mocha);
 - Análise da qualidade do UI/UX dos softwares do Sicoob.
 
 - (2017 - 2018) <br>
@@ -28,7 +28,7 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 
 * (2015 - 2017) <br>
   **Testador de Software - CTIS(Cnpq, Ministério da Saúde e MCTI)**  
-  Codificação de testes automatizados utilizando javascript, Protractor Framework como implementação das tecnologias jasmine, webdriver, gulp. Utilização da linguagem SQL para criação de massa de dados e validação de persistência. Criação de roteiros de teste, documentos de evidência, plano de teste e demais documentos necessários para a disciplina. Ajustes simples no código do frontend de aplicações AngularJS.
+  Codificação de testes automatizados utilizando javascript, Protractor Framework como implementação das tecnologias jasmine, webdriver e gulp. Utilização da linguagem SQL para criação de massa de dados e validação de persistência. Criação de roteiros de teste, documentos de evidência, plano de teste e demais documentos necessários. Ajustes simples no código do frontend de aplicações AngularJS.
 
 ## Conhecimentos
 
