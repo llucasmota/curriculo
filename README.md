@@ -6,7 +6,7 @@ Desenvolvedor Web / Front-end e Back-end.
 :contato: (61) 98256-1940 <br>
 :e-mail: lucas.o.mota@gmail.com
 
-Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript tanto no backend como frontend com projetos pessoais, codificando principalmente API's Rest com NodeJS. Sou também profissional de qualidade de software, onde também atuo codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Rest.
+Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript tanto no backend como frontend com projetos pessoais, codificando principalmente API's Rest com NodeJS. Sou também profissional de qualidade de software, onde também atuo codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Rest. Sou um estudante assíduo e disciplinado com grande atividade no github nas tecnologias Javascript.
 
 ## Formação
 
@@ -61,7 +61,7 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 - Javascript
 - Typescript
 
-### Frameworks e Tecnoligias Javascript
+### Frameworks e Tecnologias
 
 - ExpressJS
 - AdonisJS
@@ -73,6 +73,7 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 - Mocha
 - Jasmine
 - Bee Queue
+- Docker
 
 ### Banco de Dados
 
@@ -92,42 +93,24 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 - [API - Market Place](https://github.com/llucasmota/marketplace)
 - [Consumo da API github com ReactJS](https://github.com/llucasmota/github-repositories-react)
 - [Consumo de API github com React Native](https://github.com/llucasmota/gostack-template-conceitos-react-native)
+- [Arcade Game com Javascript e HTML](https://github.com/llucasmota/frontend-nanodegree-arcade-game)
 
-## Cursos
+## Cursos e certificados
 
-- Curso Git e Github para iniciantes (Udemy / [Certificado](#))
-- Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
+- DevOps Essentials ([Certificação](#))
+- Treinamento UX Design ([Certificado](#))
+- Bootcamp Rocketseat([Em andamento](#))
+- Jasmine: Testes Automatizados em Javascript ([Certificado](#))
+- Itil V3 Foudation ([Certificado](#))
+- CTFL ([Certificação](#))
 
 ## Eventos como Participante
 
-- Campus Party Natal ( [Certificado](certificados/cpnatal.pdf) )
-- Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
-- VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
-- I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
-- 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
-- I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
-- Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
-- IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
-- OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
-
-## Eventos como Organizador
-
-- 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
+- Campus Party Brasília
+- TDC Porto Alegre
 
 ## Redes Sociais
 
-- [Facebook](https://www.facebook.com/david.allysson.9)
-- [Twitter](https://twitter.com/DaviDAllysson)
-- [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
-
-## Informações Adicionais
-
-- Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
-
-<br><br>
-
-## Me ajude!
-
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
+- [Linkedin](https://www.linkedin.com/in/lucas-mota-b85934ab/)
+- [Github](https://github.com/llucasmota)
+- [Sourcerer.io](https://sourcerer.io/llucasmota)
