@@ -61,7 +61,7 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 - Javascript
 - Typescript
 
-### Frameworks e Tecnologias
+### Frameworks e Tecnologias Backend
 
 - ExpressJS
 - AdonisJS
