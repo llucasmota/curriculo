@@ -1,10 +1,12 @@
 # Lucas Mota
 
-Desenvolvedor Web / Front-end e Back-end.
+Desenvolvedor Javascript Frontend e Backend.
 
-:localidade: Brasília/DF <br>
-:contato: (61) 98256-1940 <br>
-:e-mail: lucas.o.mota@gmail.com
+### Localidade: Brasília/DF <br>
+
+### Contato: (61) 98256-1940 <br>
+
+### E-mail: lucas.o.mota@gmail.com
 
 Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript tanto no backend como frontend com projetos pessoais, codificando principalmente API's Rest com NodeJS. Sou também profissional de qualidade de software, onde também atuo codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Rest. Sou um estudante assíduo e disciplinado com grande atividade no github nas tecnologias Javascript.
 
