@@ -4,8 +4,6 @@ Desenvolvedor Javascript Frontend e Backend.
 
 ### Localidade: Brasília/DF <br>
 
-### Contato: (61) 98256-1940 <br>
-
 ### E-mail: lucas.o.mota@gmail.com
 
 Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript e typescript, tanto no backend como frontend com projetos pessoais e na empresa a qual atuo especialmente com React JS e seu ecossistema. Para além disso, tenho projetos pessoais que envolvem de API's Rest com NodeJS, MongoDB, Redis, ExpressJS, Postgres, além de proejtos com React. Fui profissional de qualidade de software, onde também atuei codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Reste, entre os projetos: App Sicoob Mobile, homologação de implementação do padrão FIDO, Open Banking, PIX. Sou um estudante assíduo e sempre muito interessado a aprender mais especialmente de Javascript e seu ecossistema.
