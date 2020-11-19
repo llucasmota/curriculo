@@ -15,6 +15,7 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 ## Experência Profissional
 
 - (2020 - Atual) <br>
+**Desenvolvedor Javascript Fullstack - Deltapoint**
 - Desenvolvimento de componentes em React para produtos da empresa;
 - Realização comunicação entre Front End e serviços Rest e Web Socket;
 - Desenvolvimento de funcionalidades novas, pesquisa de soluções e sustentação de sistema;
