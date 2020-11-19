@@ -8,7 +8,7 @@ Desenvolvedor Javascript Frontend e Backend.
 
 ### E-mail: lucas.o.mota@gmail.com
 
-Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript tanto no backend como frontend com projetos pessoais, codificando principalmente API's Rest com NodeJS. Sou também profissional de qualidade de software, onde também atuo codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Rest. Sou um estudante assíduo e disciplinado com grande atividade no github nas tecnologias Javascript.
+Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript e typescript, tanto no backend como frontend com projetos pessoais e na empresa a qual atuo especialmente com React JS e seu ecossistema. Para além disso, tenho projetos pessoais que envolvem de API's Rest com NodeJS, MongoDB, Redis, ExpressJS, Postgres, além de proejtos com React. Fui profissional de qualidade de software, onde também atuei codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Reste, entre os projetos: App Sicoob Mobile, homologação de implementação do padrão FIDO, Open Banking, PIX. Sou um estudante assíduo e sempre muito interessado a aprender mais especialmente de Javascript e seu ecossistema.
 
 ## Formação
 
@@ -16,7 +16,14 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
 
 ## Experência Profissional
 
-- (2017 - Atual) <br>
+- (2020 - Atual) <br>
+- Desenvolvimento de componentes em React para produtos da empresa;
+- Realização comunicação entre Front End e serviços Rest e Web Socket;
+- Desenvolvimento de funcionalidades novas, pesquisa de soluções e sustentação de sistema;
+- Trabalhando com github juntamente com o gitflow;
+- Tecnologias: expressJS, react, styled components, redux, react hooks.
+
+- (2017 - 2020) <br>
   **Analista de Teste de Software - Sicoob Confederação**
 - Homologação de produtos do Sicoob(Sicoob Mobile, Internet Banking, Chatbot, Cases de Big Data);
 - Homologação de serviços Rest com Wso2 utilizando ferramentas(Postman) e codificação(com e frameworks Javascript Supertest, Mocha);
