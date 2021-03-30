@@ -1,6 +1,6 @@
 # Lucas Mota
 
-Desenvolvedor Javascript Frontend e Backend.
+Desenvolvedor Javascript Fullstack.
 
 ### Localidade: Brasília/DF <br>
 
@@ -10,11 +10,19 @@ Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascri
 
 ## Formação
 
-Graduação em Análise e Desenvolvimento de Sistemas - Uniceub.
+Graduação em Análise e Desenvolvimento de Sistemas - Uniceub - Finalizado em 2017.
 
 ## Experência Profissional
+- (2021 - Atual) <br>
+**Desenvolvedor Frontend - Money Cloud**
+- Desenvolvimento de componentes em React para produtos da empresa;
+- Realização comunicação entre Front End e serviços Rest;
+- Desenvolvimento de funcionalidades novas, pesquisa de soluções e sustentação de sistema;
+- Trabalhando com gitlab juntamente com o gitflow;
+- Tecnologias: Express, React, Styled Components, Redux, React Hooks, Typescript.
 
-- (2020 - Atual) <br>
+
+- (2020 - 2021) <br>
 **Desenvolvedor Javascript Fullstack - Deltapoint**
 - Desenvolvimento de componentes em React para produtos da empresa;
 - Realização comunicação entre Front End e serviços Rest e Web Socket;
