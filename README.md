@@ -1,19 +1,29 @@
 # Lucas Mota
 
-Desenvolvedor Javascript Fullstack.
+## Desenvolvedor Javascript Fullstack.
 
 ### Localidade: Brasília/DF <br>
 
 ### E-mail: lucas.o.mota@gmail.com
 
-Meu nome é Lucas Mota, sou Desenvolvedor Web atuante no ecossistema de javascript e typescript, tanto no backend como frontend com projetos pessoais e na empresa a qual atuo especialmente com React JS e seu ecossistema. Para além disso, tenho projetos pessoais que envolvem de API's Rest com NodeJS, MongoDB, Redis, ExpressJS, Postgres, além de proejtos com React. Fui profissional de qualidade de software, onde também atuei codificando e analisando demais especificações necessárias a qualidade de software para homologação de produtos de produtos bancários e disponibilização de serviços Reste, entre os projetos: App Sicoob Mobile, homologação de implementação do padrão FIDO, Open Banking, PIX. Sou um estudante assíduo e sempre muito interessado a aprender mais especialmente de Javascript e seu ecossistema.
+### Telefone: 61 98256-1040
+
+Sou Desenvolvedor Web atuante no ecossistema de Javascript e Typescript, tanto no backend como frontend com projetos pessoais e privados(nas empresa onde atuei). Por onde passei participei da construção e manutenção do PWA Epy(startup de delivery e cardápio digital), soluções da fintech Money Cloud, que entrega serviços bancários para outras empresas que não possuem mão de obra especializada para tal, também aplicações backend e frontend para o Ministério da Saúde consumindo dados do Elasticsearch e apresento os mesmos através de aplicações React. Quando testador atuei em projetos como: Open Banking, PIX, Mobile Sicoob.
 
 ## Formação
 
 Graduação em Análise e Desenvolvimento de Sistemas - Uniceub - Finalizado em 2017.
 
+
 ## Experência Profissional
+
 - (2021 - Atual) <br>
+**Desenvolvedor Fullstack - Asper TI**
+- Desenvolvimento de aplicações React(com uso de Hooks);
+- Desenvolvimento de aplicações com uso de NextJs(Backend e Frontend);
+- Consumo de dados do elasticsearch através do uso de client elasticSearch para NodeJs;
+
+- (2021) <br>
 **Desenvolvedor Frontend - Money Cloud**
 - Desenvolvimento de componentes em React para produtos da empresa;
 - Realização comunicação entre Front End e serviços Rest;
@@ -68,10 +78,6 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub - Finalizado em 
 
 - ReactJS
 
-### Frameworks Mobile
-
-- React Native
-
 ### Linguagens de Programação
 
 - Javascript
@@ -106,7 +112,6 @@ Graduação em Análise e Desenvolvimento de Sistemas - Uniceub - Finalizado em 
 
 - [API - Vacation-Schedule](https://github.com/llucasmota/vacation-schedule)
 - [API - Projeto com fundamentos da Arquitetura SOLID](https://github.com/llucasmota/gostack-template-fundamentos-node)
-- [API - Market Place](https://github.com/llucasmota/marketplace)
 - [Consumo da API github com ReactJS](https://github.com/llucasmota/github-repositories-react)
 - [Consumo de API github com React Native](https://github.com/llucasmota/gostack-template-conceitos-react-native)
 - [Arcade Game com Javascript e HTML](https://github.com/llucasmota/frontend-nanodegree-arcade-game)
